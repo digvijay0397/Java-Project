@@ -7,3 +7,4 @@ public class Localvariables{
         System.out.println( a);
     }
 }
+   
