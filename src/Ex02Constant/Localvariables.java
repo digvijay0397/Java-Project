@@ -1,4 +1,4 @@
-package Constant;
+package Ex02Constant;
 
 public class Localvariables{
     public static void main(String[] args) {
