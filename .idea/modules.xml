@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_Assist.iml" filepath="$PROJECT_DIR$/Java_Assist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Main.iml" filepath="$PROJECT_DIR$/Java_Main.iml" />
     </modules>
   </component>
 </project>
