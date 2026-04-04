@@ -1,4 +1,4 @@
-package Ex_04Operator;
+package Ex04_Operator;
 
 public class LAB11_Interview_ShortChar {
     public static void main(String[] args) {

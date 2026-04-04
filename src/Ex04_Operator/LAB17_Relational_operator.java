@@ -1,4 +1,4 @@
-package Ex_04Operator;
+package Ex04_Operator;
 
 public class LAB17_Relational_operator {   //relational operator is used to compare two values and return a boolean result (true or false)
     public static void main(String[] args) {

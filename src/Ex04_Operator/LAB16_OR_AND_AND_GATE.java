@@ -1,4 +1,4 @@
-package Ex_04Operator;
+package Ex04_Operator;
 
 public class LAB16_OR_AND_AND_GATE {
     public static void main(String[] args) {

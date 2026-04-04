@@ -1,4 +1,4 @@
-package Ex_04Operator;
+package Ex04_Operator;
 
 public class LAB05_Arithmatic_Operator {
     public static void main(String[] args){

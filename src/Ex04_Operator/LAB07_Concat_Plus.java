@@ -1,4 +1,4 @@
-package Ex_04Operator;
+package Ex04_Operator;
 
 public class LAB07_Concat_Plus {
     public static void main(String[] args) {

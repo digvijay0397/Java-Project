@@ -1,4 +1,4 @@
-package Ex_04Operator;
+package Ex04_Operator;
 
 public class LAB18_Salary_Operator {
     public static void main(String[] args) {
