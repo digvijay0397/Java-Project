@@ -1,6 +1,6 @@
 package Ex05_TypeCasting;
 
-public class TypeCasting_0 {
+public class LAB23_TypeCasting_0 {
     public static void main (String[] args){
       //int b = 210;
       //int a = b; //valid syntax

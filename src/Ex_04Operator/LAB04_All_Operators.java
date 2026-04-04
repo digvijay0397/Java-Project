@@ -1,6 +1,6 @@
 package Ex_04Operator;
 
-public class All_Operators {
+public class LAB04_All_Operators {
     public static void main(String[] args) {
         //Arithmetic Operators
        boolean a1 = true;

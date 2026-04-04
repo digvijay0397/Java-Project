@@ -1,9 +1,9 @@
 package Ex_04Operator;
 
-public class String_Null {
+public class LAB14_New_Operator {
     public static void main(String[] args) {
-        String name = null;
+        String name = new String( "Digvijay");
         System.out.println(name);
-    } 
+    }
     
 }

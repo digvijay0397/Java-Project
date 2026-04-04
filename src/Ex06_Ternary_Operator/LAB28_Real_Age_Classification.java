@@ -1,6 +1,6 @@
 package Ex06_Ternary_Operator;
 
-public class Real_Age_Classification {
+public class LAB28_Real_Age_Classification {
     static void main(String[] args) {
         String age_input = args[0];
         System.out.println(age_input instanceof  String);

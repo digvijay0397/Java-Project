@@ -1,6 +1,6 @@
 package Ex_04Operator;
 
-public class Logical_Operator {
+public class LAB12_Logical_Operator {
     public static void main(String[] args) {
         boolean a = true;
     System.out.println(a); 

@@ -1,6 +1,6 @@
 package Ex_04Operator;
 
-public class Modulas_Operator {
+public class LAB13_Modulas_Operator {
     public static void main(String[] args) {
         int a = 60;
         int b = 50;

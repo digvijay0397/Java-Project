@@ -1,6 +1,6 @@
 package Ex_04Operator;
 
-public class Concat_Plus {
+public class LAB07_Concat_Plus {
     public static void main(String[] args) {
         int a = 20;
         int b = 20;

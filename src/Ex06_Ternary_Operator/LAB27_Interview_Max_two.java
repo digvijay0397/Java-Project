@@ -1,6 +1,6 @@
 package Ex06_Ternary_Operator;
 
-public class Interview_Max_two {
+public class LAB27_Interview_Max_two {
     static void main() {
         int x = 10;
         int y= 20;

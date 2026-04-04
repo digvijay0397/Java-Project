@@ -1,6 +1,6 @@
 package Ex_04Operator;
 
-public class Arithmatic_Operator {
+public class LAB05_Arithmatic_Operator {
     public static void main(String[] args){
         int a = 20;
         int b = 4;

@@ -1,6 +1,6 @@
 package Ex_04Operator;
 
-public class Salary_Operator {
+public class LAB18_Salary_Operator {
     public static void main(String[] args) {
         int Ashutosh_salary = 10000;
         boolean b = !(Ashutosh_salary > 5000 || Ashutosh_salary < 5000);
