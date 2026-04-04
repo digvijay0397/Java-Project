@@ -1,4 +1,4 @@
-public class Data_Type {
+public class LAB01_Data_Type {
     public static void main(String[] args) {
         int I = 101;
         System.out.println("Data_Type(int) = " + I);
