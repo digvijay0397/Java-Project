@@ -1,0 +1,10 @@
+package Ex16_Arrays;
+
+public class LAB125_String_CLI {
+    public static void main(String[] args) {
+        for (int i = 0; i< args.length; i++) {
+            System.out.println(args[i]);
+        }
+
+    }
+}

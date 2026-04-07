@@ -67,3 +67,8 @@ Write a Java program to print numbers from 1 to 10, but skip printing the number
 14) Write a Java program to reverse a given string.
 
     do it without any inbuilt function.
+
+
+15)  Find the 2nd Highest in Array(no in built function)
+
+int[] numbers = {12, 34, 10, 1, 100, 3, 4, 32};//100,34
