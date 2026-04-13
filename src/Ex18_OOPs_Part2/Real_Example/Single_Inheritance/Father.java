@@ -1,4 +1,4 @@
-package Ex18_OOPs_Part2;
+package Ex18_OOPs_Part2.Real_Example.Single_Inheritance;
 
 public class Father {
     int gold_bar = 1000;
